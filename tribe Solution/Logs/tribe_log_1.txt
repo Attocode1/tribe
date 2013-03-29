@@ -1,0 +1,100 @@
+2013-03-29 22:50:29 [com.wakanda-software.tribe] INFO - Opening the solution
+2013-03-29 22:50:29 [com.wakanda-software.tribe] INFO - Opening the users and groups directory
+2013-03-29 22:50:29 [com.wakanda-software.tribe] INFO - Users and groups directory opened (duration: 53 ms)
+2013-03-29 22:50:29 [com.wakanda-software.tribe.tribe] INFO - Opening the project
+2013-03-29 22:50:29 [com.wakanda-software.tribe.tribe] INFO - Opening the database
+2013-03-29 22:50:29 [com.wakanda-software.tribe.tribe] INFO - Database opened (duration: 14 ms)
+2013-03-29 22:50:29 [com.wakanda-software.tribe.tribe] INFO - Project opened (duration: 22 ms)
+2013-03-29 22:50:29 [com.wakanda-software.tribe.ServerAdmin] INFO - Opening the project
+2013-03-29 22:50:29 [com.wakanda-software.tribe.ServerAdmin] INFO - Project opened (duration: 1 ms)
+2013-03-29 22:50:29 [com.wakanda-software.tribe] INFO - Solution opened (duration: 85 ms)
+2013-03-29 22:50:29 [com.wakanda-software.tribe] INFO - Starting the solution
+2013-03-29 22:50:29 [com.wakanda-software.tribe.tribe] INFO - Starting the project
+2013-03-29 22:50:29 [com.wakanda-software.tribe.tribe] INFO - Starting the HTTP server
+2013-03-29 22:50:29 [com.wakanda-software.tribe.tribe] INFO - HTTP server started (duration: 28 ms)
+2013-03-29 22:50:29 [com.wakanda-software.tribe.tribe] INFO - Project started (duration: 69 ms)
+2013-03-29 22:50:29 [com.wakanda-software.tribe.ServerAdmin] INFO - Starting the project
+2013-03-29 22:50:29 [com.wakanda-software.tribe.ServerAdmin] INFO - Starting the HTTP server
+2013-03-29 22:50:29 [com.wakanda-software.tribe.ServerAdmin] INFO - HTTP server started (duration: 9 ms)
+2013-03-29 22:50:29 [com.wakanda-software.tribe.ServerAdmin] INFO - Project started (duration: 25 ms)
+2013-03-29 22:50:29 [com.wakanda-software.tribe.tribe] INFO - Executing the bootstrap(s)
+2013-03-29 22:50:29 [com.wakanda-software.tribe.tribe] INFO - Bootstrap(s) executed (duration: 0 ms)
+2013-03-29 22:50:29 [com.wakanda-software.tribe.ServerAdmin] INFO - Executing the bootstrap(s)
+2013-03-29 22:50:29 [com.wakanda-software.tribe.ServerAdmin] INFO - Bootstrap(s) executed (duration: 3 ms)
+2013-03-29 22:50:29 [com.wakanda-software.tribe] INFO - Solution started (duration: 101 ms)
+2013-03-29 22:51:19 [com.wakanda-software.tribe] INFO - Stopping the solution
+2013-03-29 22:51:19 [com.wakanda-software.tribe.tribe] INFO - Stopping the project
+2013-03-29 22:51:21 [com.wakanda-software.tribe.tribe] INFO - Project stopped (duration: 2060 ms)
+2013-03-29 22:51:21 [com.wakanda-software.tribe.ServerAdmin] INFO - Stopping the project
+2013-03-29 22:51:23 [com.wakanda-software.tribe.ServerAdmin] INFO - Project stopped (duration: 2028 ms)
+2013-03-29 22:51:23 [com.wakanda-software.tribe] INFO - Solution stopped (duration: 4089 ms)
+2013-03-29 22:51:23 [com.wakanda-software.tribe] INFO - Closing the solution
+2013-03-29 22:51:23 [com.wakanda-software.tribe.tribe] INFO - Closing the project
+2013-03-29 22:51:23 [com.wakanda-software.tribe.tribe] INFO - Closing the database
+2013-03-29 22:51:24 [com.wakanda-software.tribe.tribe] INFO - Database closed (duration: 405 ms)
+2013-03-29 22:51:24 [com.wakanda-software.tribe.tribe] INFO - Project closed (duration: 406 ms)
+2013-03-29 22:51:24 [com.wakanda-software.tribe.ServerAdmin] INFO - Closing the project
+2013-03-29 22:51:24 [com.wakanda-software.tribe.ServerAdmin] INFO - Project closed (duration: 1 ms)
+2013-03-29 22:51:24 [com.wakanda-software.tribe] INFO - Solution closed (duration: 817 ms)
+2013-03-29 22:51:40 [com.wakanda-software.tribe] INFO - Opening the solution
+2013-03-29 22:51:40 [com.wakanda-software.tribe] INFO - Opening the users and groups directory
+2013-03-29 22:51:40 [com.wakanda-software.tribe] INFO - Users and groups directory opened (duration: 50 ms)
+2013-03-29 22:51:40 [com.wakanda-software.tribe.tribe] INFO - Opening the project
+2013-03-29 22:51:40 [com.wakanda-software.tribe.tribe] INFO - Opening the database
+2013-03-29 22:51:40 [com.wakanda-software.tribe.tribe] INFO - Database opened (duration: 12 ms)
+2013-03-29 22:51:40 [com.wakanda-software.tribe.tribe] INFO - Project opened (duration: 20 ms)
+2013-03-29 22:51:40 [com.wakanda-software.tribe.ServerAdmin] INFO - Opening the project
+2013-03-29 22:51:40 [com.wakanda-software.tribe.ServerAdmin] INFO - Project opened (duration: 1 ms)
+2013-03-29 22:51:40 [com.wakanda-software.tribe] INFO - Solution opened (duration: 81 ms)
+2013-03-29 22:51:40 [com.wakanda-software.tribe] INFO - Starting the solution
+2013-03-29 22:51:40 [com.wakanda-software.tribe.tribe] INFO - Starting the project
+2013-03-29 22:51:40 [com.wakanda-software.tribe.tribe] INFO - Starting the HTTP server
+2013-03-29 22:51:40 [com.wakanda-software.tribe.tribe] INFO - HTTP server started (duration: 27 ms)
+2013-03-29 22:51:40 [com.wakanda-software.tribe.tribe] INFO - Project started (duration: 67 ms)
+2013-03-29 22:51:40 [com.wakanda-software.tribe.ServerAdmin] INFO - Starting the project
+2013-03-29 22:51:40 [com.wakanda-software.tribe.ServerAdmin] INFO - Starting the HTTP server
+2013-03-29 22:51:40 [com.wakanda-software.tribe.ServerAdmin] INFO - HTTP server started (duration: 9 ms)
+2013-03-29 22:51:40 [com.wakanda-software.tribe.ServerAdmin] INFO - Project started (duration: 24 ms)
+2013-03-29 22:51:40 [com.wakanda-software.tribe.tribe] INFO - Executing the bootstrap(s)
+2013-03-29 22:51:40 [com.wakanda-software.tribe.tribe] INFO - Bootstrap(s) executed (duration: 0 ms)
+2013-03-29 22:51:40 [com.wakanda-software.tribe.ServerAdmin] INFO - Executing the bootstrap(s)
+2013-03-29 22:51:40 [com.wakanda-software.tribe.ServerAdmin] INFO - Bootstrap(s) executed (duration: 3 ms)
+2013-03-29 22:51:40 [com.wakanda-software.tribe] INFO - Solution started (duration: 98 ms)
+2013-03-29 22:51:43 [com.wakanda-software.tribe] INFO - Stopping the solution
+2013-03-29 22:51:43 [com.wakanda-software.tribe.tribe] INFO - Stopping the project
+2013-03-29 22:51:46 [com.wakanda-software.tribe.tribe] INFO - Project stopped (duration: 2058 ms)
+2013-03-29 22:51:46 [com.wakanda-software.tribe.ServerAdmin] INFO - Stopping the project
+2013-03-29 22:51:48 [com.wakanda-software.tribe.ServerAdmin] INFO - Project stopped (duration: 2022 ms)
+2013-03-29 22:51:48 [com.wakanda-software.tribe] INFO - Solution stopped (duration: 4081 ms)
+2013-03-29 22:51:48 [com.wakanda-software.tribe] INFO - Closing the solution
+2013-03-29 22:51:48 [com.wakanda-software.tribe.tribe] INFO - Closing the project
+2013-03-29 22:51:48 [com.wakanda-software.tribe.tribe] INFO - Closing the database
+2013-03-29 22:51:48 [com.wakanda-software.tribe.tribe] INFO - Database closed (duration: 308 ms)
+2013-03-29 22:51:48 [com.wakanda-software.tribe.tribe] INFO - Project closed (duration: 308 ms)
+2013-03-29 22:51:48 [com.wakanda-software.tribe.ServerAdmin] INFO - Closing the project
+2013-03-29 22:51:48 [com.wakanda-software.tribe.ServerAdmin] INFO - Project closed (duration: 0 ms)
+2013-03-29 22:51:48 [com.wakanda-software.tribe] INFO - Solution closed (duration: 718 ms)
+2013-03-29 22:53:07 [com.wakanda-software.tribe] INFO - Opening the solution
+2013-03-29 22:53:07 [com.wakanda-software.tribe] INFO - Opening the users and groups directory
+2013-03-29 22:53:07 [com.wakanda-software.tribe] INFO - Users and groups directory opened (duration: 54 ms)
+2013-03-29 22:53:07 [com.wakanda-software.tribe.tribe] INFO - Opening the project
+2013-03-29 22:53:07 [com.wakanda-software.tribe.tribe] INFO - Opening the database
+2013-03-29 22:53:07 [com.wakanda-software.tribe.tribe] INFO - Database opened (duration: 17 ms)
+2013-03-29 22:53:07 [com.wakanda-software.tribe.tribe] INFO - Project opened (duration: 25 ms)
+2013-03-29 22:53:07 [com.wakanda-software.tribe.ServerAdmin] INFO - Opening the project
+2013-03-29 22:53:07 [com.wakanda-software.tribe.ServerAdmin] INFO - Project opened (duration: 1 ms)
+2013-03-29 22:53:07 [com.wakanda-software.tribe] INFO - Solution opened (duration: 128 ms)
+2013-03-29 22:53:07 [com.wakanda-software.tribe] INFO - Starting the solution
+2013-03-29 22:53:07 [com.wakanda-software.tribe.tribe] INFO - Starting the project
+2013-03-29 22:53:07 [com.wakanda-software.tribe.tribe] INFO - Starting the HTTP server
+2013-03-29 22:53:07 [com.wakanda-software.tribe.tribe] INFO - HTTP server started (duration: 30 ms)
+2013-03-29 22:53:07 [com.wakanda-software.tribe.tribe] INFO - Project started (duration: 75 ms)
+2013-03-29 22:53:07 [com.wakanda-software.tribe.ServerAdmin] INFO - Starting the project
+2013-03-29 22:53:07 [com.wakanda-software.tribe.ServerAdmin] INFO - Starting the HTTP server
+2013-03-29 22:53:07 [com.wakanda-software.tribe.ServerAdmin] INFO - HTTP server started (duration: 10 ms)
+2013-03-29 22:53:07 [com.wakanda-software.tribe.ServerAdmin] INFO - Project started (duration: 27 ms)
+2013-03-29 22:53:07 [com.wakanda-software.tribe.tribe] INFO - Executing the bootstrap(s)
+2013-03-29 22:53:07 [com.wakanda-software.tribe.tribe] INFO - Bootstrap(s) executed (duration: 0 ms)
+2013-03-29 22:53:07 [com.wakanda-software.tribe.ServerAdmin] INFO - Executing the bootstrap(s)
+2013-03-29 22:53:07 [com.wakanda-software.tribe.ServerAdmin] INFO - Bootstrap(s) executed (duration: 4 ms)
+2013-03-29 22:53:07 [com.wakanda-software.tribe] INFO - Solution started (duration: 110 ms)
