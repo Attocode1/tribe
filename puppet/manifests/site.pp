@@ -9,13 +9,13 @@ Exec {
     ]
 }
 
-exec {'wget /tmp/wakanda-server.deb':
+exec {'wget -O /tmp/wakanda-server.deb':
 	command => 'wget -O /tmp/wakanda-server.deb http://www.andrewcare.ca/wakanda-server_4.129628_amd64.deb',
 	creates => '/tmp/wakanda-server.deb'
 }
 
 package {'wakanda-server':
-	require => Exec['wget /tmp/wakanda-server.deb'],
+	require => Exec['wget -O /tmp/wakanda-server.deb'],
 	ensure => installed,
 	source => '/tmp/wakanda-server.deb',
 	provider => 'dpkg'
