@@ -3,3 +3,8 @@ tribe/Logs
 tribe Solution/Logs
 tribe/DataFolder
 *.cacheUAG
+*.waPreferences
+*.waSymData
+*.waSym
+*.Match
+breakpoints.json
