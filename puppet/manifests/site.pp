@@ -27,6 +27,14 @@ file { '/etc/init/wakanda-server.conf':
 	source => '/vagrant/puppet/files/wakanda-server.conf'
 }
 
-exec {'sudo start wakanda-server':
-	require => File['/etc/init/wakanda-server.conf']
+service {'wakanda-server':
+	require => [
+		Package['wakanda-server'],
+		File['/etc/init/wakanda-server.conf']
+	],
+	subscribe => File['/etc/init/wakanda-server.conf'],
+	ensure => running,
+	enable => true,
+	hasrestart => true,
+	hasstatus => true
 }

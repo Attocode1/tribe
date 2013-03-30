@@ -1,2 +1,5 @@
 .vagrant
 tribe/Logs
+tribe Solution/Logs
+tribe/DataFolder
+*.cacheUAG
