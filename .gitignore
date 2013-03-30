@@ -8,4 +8,3 @@ tribe/DataFolder
 *.waSym
 *.Match
 breakpoints.json
-*.waDirectory
